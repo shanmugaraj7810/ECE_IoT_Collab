@@ -1,5 +1,5 @@
 Smart_Agri_NodeMCU
-Author: R.Vinoth
+Author: B. Shanmugaraj
 Date: 2025-08-27
 
 Objectives:
